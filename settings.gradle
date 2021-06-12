@@ -1,0 +1,3 @@
+rootProject.name = "bottomSheetViewSample"
+include ':app'
+include ':CustomBottomSheet'
